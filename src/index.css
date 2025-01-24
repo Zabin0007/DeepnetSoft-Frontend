@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Atma:wght@300;400;500;600;700&family=Chewy&family=Jersey+15&family=Jolly+Lodger&family=Markazi+Text:wght@400..700&family=Modak&family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Sour+Gummy:ital,wght@0,100..900;1,100..900&family=Teko:wght@300..700&display=swap');
+*{
+    font-family: "Teko", serif;
+    font-size: larger;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 200px;
+    border: 2px solid #0796EF;
+}
+@media screen and (max-width: 480px) {
+    button {
+      width: 100px;
+    }
+  }
