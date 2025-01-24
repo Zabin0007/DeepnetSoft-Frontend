@@ -1,1 +1,1 @@
-export const serverurl = 'http://localhost:3500'
+export const serverurl = 'https://deepnetsoft-backend-bd7b.onrender.com'
